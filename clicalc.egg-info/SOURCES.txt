@@ -1,0 +1,11 @@
+README.md
+setup.py
+clicalc/__init__.py
+clicalc/__main__.py
+clicalc/classmodule.py
+clicalc/funcmodule.py
+clicalc.egg-info/PKG-INFO
+clicalc.egg-info/SOURCES.txt
+clicalc.egg-info/dependency_links.txt
+clicalc.egg-info/entry_points.txt
+clicalc.egg-info/top_level.txt

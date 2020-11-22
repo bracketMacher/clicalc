@@ -1,0 +1,3 @@
+[console_scripts]
+clicalc = clicalc.__main__:main
+
